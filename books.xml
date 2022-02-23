@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<bookstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/xampp/htdocs/CENEC%202021%20-%201%C2%BA%20DAW/Lenguaje%20de%20Marcas/2%C2%BA%20Trimestre/EJERCICIO%20XML/books.xsd">
+<book category="cooking">
+  <title lang="en">OBRA:Everyday Italian</title>
+  <author>Giada De Laurentiis</author>
+  <year>Año: 2005</year>
+  <price>Precio: </price>
+  <precio moneda="€"> 29.99</precio>
+  <priceS> euros </priceS>
+</book>
+
+<book category="children">
+  <title lang="en">OBRA:Harry Potter</title>
+  <author>J K. Rowling</author>
+  <year>Año: 2005</year>
+  <price>Precio: </price>
+  <precio moneda="€"> 29.99</precio>
+  <priceS> euros </priceS>
+</book>
+
+<book category="web">
+  <title lang="en">OBRA:XQuery Kick Start</title>
+  <author>James McGovern</author>
+  <author>Per Bothner</author>
+  <author>Kurt Cagle</author>
+  <author>James Linn</author>
+  <author>Vaidyanathan Nagarajan</author>
+  <year>Año: 2003</year>
+  <price>Precio: </price>
+  <precio moneda="€"> 49.99</precio>
+  <priceS> euros </priceS>
+</book>
+
+<book category="web" cover="paperback">
+  <title lang="en">OBRA:Learning XML</title>
+  <author>Erik T. Ray</author>
+  <year>Año: 2003</year>
+  <price>Precio: </price>
+  <precio moneda="€"> 39.95</precio>
+  <priceS> euros </priceS>
+</book>
+
+</bookstore>
